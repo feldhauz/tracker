@@ -13,3 +13,7 @@ Anotações rápidas de desenvolvimento do portal de rastreamento.
 ## Acessibilidade
 - Manter contraste mínimo AA nas cores `navy` e `gelo`
 - Garantir foco visível nos campos e botões
+
+## Referências
+- README principal: configuração de `MODO` e `ORIGEM_CD`
+- `src/services/rastreio.ts`: camada de dados
