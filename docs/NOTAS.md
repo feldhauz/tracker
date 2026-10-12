@@ -9,3 +9,7 @@ Anotações rápidas de desenvolvimento do portal de rastreamento.
 ## Ideias futuras
 - Notificação por e-mail a cada mudança de etapa
 - Cache local das últimas consultas
+
+## Acessibilidade
+- Manter contraste mínimo AA nas cores `navy` e `gelo`
+- Garantir foco visível nos campos e botões
