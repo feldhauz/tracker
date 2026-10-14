@@ -7,3 +7,6 @@ Anotações gerais do tracker.
 
 ## Estilo
 - Interface construída com Tailwind CSS.
+
+## Deploy
+- Build via Vite; publicar a pasta dist.
