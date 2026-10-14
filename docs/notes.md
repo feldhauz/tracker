@@ -10,3 +10,6 @@ Anotações gerais do tracker.
 
 ## Deploy
 - Build via Vite; publicar a pasta dist.
+
+## Próximos passos
+- Revisar avisos de atraso dos correios.
