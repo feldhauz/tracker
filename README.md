@@ -104,3 +104,6 @@ Acompanhar o status de pedidos em um painel simples.
 
 ## Desenvolvimento
 Use `npm install` e `npm run dev` para iniciar o projeto localmente.
+
+## Build
+Gere a versao de producao com `npm run build`.
