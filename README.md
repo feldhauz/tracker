@@ -98,3 +98,6 @@ export async function buscarRastreio(
 ## 📍 Localização do Visitante
 
 A aplicação utiliza a API nativa `navigator.geolocation` com geocodificação reversa gratuita (BigDataCloud e OpenStreetMap Nominatim), armazenando o estado em `sessionStorage` para garantir rapidez e zero re-solicitações intrusivas. Em caso de recusa de permissão ou falha de rede, a aplicação exibe um seletor visual e intuitivo com os 27 estados do Brasil.
+
+## Objetivo
+Acompanhar o status de pedidos em um painel simples.
