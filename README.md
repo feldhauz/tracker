@@ -107,3 +107,6 @@ Use `npm install` e `npm run dev` para iniciar o projeto localmente.
 
 ## Build
 Gere a versao de producao com `npm run build`.
+
+## Contribuicao
+Sugestoes e melhorias sao bem-vindas via issues.
