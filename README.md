@@ -110,3 +110,6 @@ Gere a versao de producao com `npm run build`.
 
 ## Contribuicao
 Sugestoes e melhorias sao bem-vindas via issues.
+
+## Licenca
+Projeto de uso pessoal.
