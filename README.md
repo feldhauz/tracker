@@ -106,3 +106,7 @@ A aplicação utiliza a API nativa `navigator.geolocation` com geocodificação 
 - `npm run dev` — inicia o servidor de desenvolvimento
 - `npm run build` — gera o build de produção
 - `npm run preview` — visualiza o build localmente
+
+## 🎨 Paleta de Cores
+
+Tokens definidos no Tailwind: `navy`, `navy-claro`, `gelo` e `branco`.
