@@ -118,3 +118,7 @@ Layout mobile-first, ajustado para telas pequenas, tablets e desktop.
 ## 🤝 Contribuição
 
 Sugestões e melhorias são bem-vindas via issues ou pull requests.
+
+## 📄 Licença
+
+Projeto de uso privado da Whitefield & Co.
