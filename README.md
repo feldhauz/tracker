@@ -110,3 +110,7 @@ A aplicação utiliza a API nativa `navigator.geolocation` com geocodificação 
 ## 🎨 Paleta de Cores
 
 Tokens definidos no Tailwind: `navy`, `navy-claro`, `gelo` e `branco`.
+
+## 📱 Responsividade
+
+Layout mobile-first, ajustado para telas pequenas, tablets e desktop.
