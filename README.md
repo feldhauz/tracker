@@ -114,3 +114,7 @@ Tokens definidos no Tailwind: `navy`, `navy-claro`, `gelo` e `branco`.
 ## 📱 Responsividade
 
 Layout mobile-first, ajustado para telas pequenas, tablets e desktop.
+
+## 🤝 Contribuição
+
+Sugestões e melhorias são bem-vindas via issues ou pull requests.
