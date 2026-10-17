@@ -113,3 +113,7 @@ A aplicação utiliza a API nativa `navigator.geolocation` com geocodificação 
 
 - `src/`: codigo-fonte da aplicacao
 - `public/`: arquivos estaticos
+
+## Deploy
+
+O projeto pode ser publicado na Vercel usando o preset padrao do Vite.
