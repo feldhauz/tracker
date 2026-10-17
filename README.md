@@ -103,3 +103,8 @@ A aplicação utiliza a API nativa `navigator.geolocation` com geocodificação 
 
 - `npm run dev`: servidor de desenvolvimento
 - `npm run build`: build de produção
+
+## Requisitos
+
+- Node.js 18 ou superior
+- npm 9 ou superior
