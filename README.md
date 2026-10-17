@@ -117,3 +117,7 @@ A aplicação utiliza a API nativa `navigator.geolocation` com geocodificação 
 ## Deploy
 
 O projeto pode ser publicado na Vercel usando o preset padrao do Vite.
+
+## Contribuindo
+
+Abra uma issue ou envie um pull request com sugestões de melhoria.
