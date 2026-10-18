@@ -3,3 +3,4 @@
 - Review tracker UI polish
 - Install deps with npm install
 - Run npm run dev to start Vite
+- Run npm run build before deploying
