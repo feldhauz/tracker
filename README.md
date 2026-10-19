@@ -107,3 +107,7 @@ A aplicação utiliza a API nativa `navigator.geolocation` com geocodificação 
 ## ✅ Requisitos
 
 Node.js 18 ou superior e npm 9 ou superior.
+
+## 🚀 Deploy
+
+O projeto pode ser publicado na Vercel apontando para a pasta `dist` gerada pelo build.
