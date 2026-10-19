@@ -115,3 +115,7 @@ O projeto pode ser publicado na Vercel apontando para a pasta `dist` gerada pelo
 ## 🤝 Contribuindo
 
 Sugestões e correções são bem-vindas via issues e pull requests.
+
+---
+
+© Whitefield & Co. Todos os direitos reservados.
