@@ -1,0 +1,1 @@
+- Add changelog notes (2026-10-21)
