@@ -2,3 +2,4 @@
 - Document local setup (2026-10-21)
 - Add roadmap outline (2026-10-21)
 - Add contributing tips (2026-10-21)
+- Add FAQ notes (2026-10-21)
