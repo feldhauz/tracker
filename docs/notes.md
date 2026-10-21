@@ -1,1 +1,2 @@
 - Add changelog notes (2026-10-21)
+- Document local setup (2026-10-21)
