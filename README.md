@@ -103,3 +103,9 @@ A aplicação utiliza a API nativa `navigator.geolocation` com geocodificação 
 
 - Node.js 18 ou superior
 - npm 9 ou superior
+
+## 🚀 Instalação
+
+```bash
+npm install
+```
