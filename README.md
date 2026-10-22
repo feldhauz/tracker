@@ -109,3 +109,9 @@ A aplicação utiliza a API nativa `navigator.geolocation` com geocodificação 
 ```bash
 npm install
 ```
+
+## 🧪 Desenvolvimento
+
+```bash
+npm run dev
+```
