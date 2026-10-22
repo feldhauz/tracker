@@ -121,3 +121,7 @@ npm run dev
 ```bash
 npm run build
 ```
+
+## 🤝 Contribuição
+
+Sugestões e melhorias são bem-vindas.
