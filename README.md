@@ -113,3 +113,10 @@ A aplicação utiliza a API nativa `navigator.geolocation` com geocodificação 
 
 - `src/` — código-fonte da aplicação
 - `public/` — arquivos estáticos
+
+---
+
+## ✅ Requisitos
+
+- Node.js 18 ou superior
+- npm 9 ou superior
