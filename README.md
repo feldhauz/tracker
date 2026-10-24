@@ -106,3 +106,10 @@ A aplicação utiliza a API nativa `navigator.geolocation` com geocodificação 
 - `npm run dev` — servidor de desenvolvimento
 - `npm run build` — build de produção
 - `npm run preview` — pré-visualização do build
+
+---
+
+## 📁 Estrutura de Pastas
+
+- `src/` — código-fonte da aplicação
+- `public/` — arquivos estáticos
