@@ -126,3 +126,9 @@ A aplicação utiliza a API nativa `navigator.geolocation` com geocodificação 
 ## 🤝 Contribuição
 
 Sugestões e melhorias são bem-vindas via issues e pull requests.
+
+---
+
+## 🌐 Deploy
+
+O projeto pode ser publicado em qualquer hospedagem estática (ex.: Vercel) usando o resultado de `npm run build`.
